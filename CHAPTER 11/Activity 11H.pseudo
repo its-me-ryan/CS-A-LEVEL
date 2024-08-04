@@ -1,0 +1,4 @@
+DECLARE Celcius : REAL
+DECLARE Farheniet : REAL
+
+Print
